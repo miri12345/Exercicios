@@ -1,8 +1,0 @@
-<HTML>
-<BODY>
-
-<p> Exemplo de texto.<IMG SRC="Manaus.jpg" align="bottom">
-Exemplo de texto.</p>
-
-</BODY>
-</HTML>
