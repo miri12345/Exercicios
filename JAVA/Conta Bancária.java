@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     static double saldo = 150.00;
     static int senhaCorreta = 3589;
-    static int contaBacariaValida = 12345;
+    static int contaBancariaValida = 12345;
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -133,7 +133,7 @@ public class Main {
             System.out.println("Informe o número da conta bancária (apenas números): ");
             int contaDoBanco = scanner.nextInt();
              
-             if(contaDoBanco == contaBacariaValida){
+             if(contaDoBanco == contaBancariaValida){
                 System.out.println("Informe o valor da transferência: ");
                 double transferencia = scanner.nextDouble();
 
